@@ -1,10 +1,123 @@
 ---
 title: Le Wagon Middleman boilerplate
 ---
+<!-- Banner -->
+<div class="banner">
+  <h1>Startup tools</h1>
+  <h4>Very cool stuff, useful and smart</h4>
+  <a href="#" class="btn btn-primary btn-lg">GET IN</a>
+</div>
 
-<div class="welcome text-center padded">
-  <h1>Middleman is Watching</h1>
-  <p class="doc">
-    <%= link_to "Read Online Documentation", "http://middlemanapp.com/" %>
-  </p><!-- .doc -->
-</div><!-- .welcome -->
+<!-- Cards Container -->
+<div class="cards-container container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-3">
+      <div class="feature">
+        <%= image_tag "/images/middleman.png" %>
+        <h5>Discuss best tools</h5>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores sequi sed, odit tenetur? Necessitatibus ad nulla deleniti quis vel facere hic illum omnis expedita beatae aliquam quibusdam asperiores laborum, magni.</p>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-3">
+      <div class="feature">
+        <%= image_tag "/images/middleman.png" %>
+        <h5>Discuss best tools</h5>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores sequi sed, odit tenetur? Necessitatibus ad nulla deleniti quis vel facere hic illum omnis expedita beatae aliquam quibusdam asperiores laborum, magni.</p>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-3">
+      <div class="feature">
+        <%= image_tag "/images/middleman.png" %>
+        <h5>Discuss best tools</h5>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores sequi sed, odit tenetur? Necessitatibus ad nulla deleniti quis vel facere hic illum omnis expedita beatae aliquam quibusdam asperiores laborum, magni.</p>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-3">
+      <div class="feature">
+        <%= image_tag "/images/middleman.png" %>
+        <h5>Discuss best tools</h5>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores sequi sed, odit tenetur? Necessitatibus ad nulla deleniti quis vel facere hic illum omnis expedita beatae aliquam quibusdam asperiores laborum, magni.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Most Popular -->
+<div class="container popular-container">
+  <div class="row">
+    <div class="most-popular">
+      <h2>Most Popular</h2>
+      <div class="popular-cards">
+        <div class="col-xs-12 col-sm-6 col-md-4">
+          <div class="banner-feat">
+            <h6>Popular</h6>
+            <h4>Trello</h4>
+            <h3>Very cool stuff, useful an smart</h3>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4">
+          <div class="banner-feat">
+            <h6>Popular</h6>
+            <h4>Intercom</h4>
+            <h3>Very cool stuff, useful an smart</h3>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4">
+          <div class="banner-feat">
+            <h6>Popular</h6>
+            <h4>Intercom</h4>
+            <h3>Very cool stuff, useful an smart</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Newsletter -->
+<div class="newsletter">
+  <h2>Get news from us </h2>
+  <p>Leave us your mail and get stylus news</p>
+  <form action='/' class='form-inline'>
+    <input type='email' class='form-control' placeholder='type your email'>
+    <input type='password' class='form-control' placeholder='*****'>
+    <input type="submit" value="Subscribe" class="btn btn-primary btn-bordered btn-bordered-primary">
+  </form>
+</div>
+
+
+
+<!-- Map -->
+<div id="map" style="width: 100%; height: 400px;"></div>
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+
+<script type="text/javascript">
+var myLatlng = new google.maps.LatLng(48.852937,2.364178);
+
+var myOptions = {
+  zoom: 16,
+  center: myLatlng,
+  scrollwheel: false,
+  mapTypeId: google.maps.MapTypeId.ROADMAP,
+  styles: [] // TODO: replace [] by array from https://snazzymaps.com/
+};
+
+var map = new google.maps.Map(document.getElementById('map'), myOptions);
+var marker = new google.maps.Marker({
+position: myLatlng,
+map: map,
+title: "You are here!"
+});
+</script>
+
+<!-- Footer -->
+
+
+
+<!-- Including Bootstrap JS (with its jQuery dependency) so that dynamic components work -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+
+

@@ -1,0 +1,125 @@
+/* code your banner design here */
+
+// html {
+//   position: relative;
+//   min-heigth: 100%;
+// }
+
+
+
+//
+
+.banner {
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,0.75)), url('http://unsplash.it/1000/700/?image=48');
+  background-position: 50% 46%;
+  background-size:cover;
+  background-repeat:no-repeat;
+  padding: 200px 200px;
+  text-align:center;
+  h1 {
+    color: white;
+    font-size:85px;
+    font-weight:200;
+  }
+  h4 {
+    color: white;
+  }
+
+}
+
+
+.banner-feat{
+  background-image: url('https://unsplash.it/200/300?image=0');
+  background-size:cover;
+  background-repeat:no-repeat;
+  padding: 30px 30px;
+  margin-bottom: 60px;
+}
+
+.newsletter{
+  text-align: center;
+  background-image: url('https://unsplash.it/200/300?image=4');
+  background-size:cover;
+  background-repeat:no-repeat;
+  padding: 60px 80px;
+  margin-bottom: 20px;
+}
+
+.popular-text{
+    color: white;
+    text-align: left;
+}
+
+/* code your card design here */
+
+.newsletter{
+  background-image: url('http://unsplash.it/1000/700/?random');
+  background-size:cover;
+  background-repeat:no-repeat;
+  padding: 40px 50px;
+}
+
+.footer{
+  .social-links{
+    // position: absolute;
+    // bottom: 0;
+    padding: 10px;
+    background-color : #222222;
+    margin-bottom:0;
+  }
+
+
+  li {
+
+    display: inline;
+    list-style: none;
+    margin: 10px;
+    font-size: 30px;
+}
+
+  ul{
+    text-align: left ;
+  }
+
+}
+
+/* code your feature design here */
+
+
+.feature {
+  img {
+    width:25px;
+  }
+  h5 {
+    font-size:15px;
+    font-weight:bolder;
+  }
+}
+
+.most-popular {
+  h2 {
+    color:black;
+  }
+}
+
+.cards-container {
+  padding:30px;
+  .feature {
+    img {
+      margin: 0 auto;
+      display:block;
+    }
+    h5 {
+      text-align:center;
+    }
+    p {
+      text-align: justify;
+    }
+  }
+}
+
+.popular-container{
+    h2{
+      text-align: center;
+    }
+}
