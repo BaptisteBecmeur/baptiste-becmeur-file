@@ -4,10 +4,7 @@
 //   position: relative;
 //   min-heigth: 100%;
 // }
-
-
-
-//
+$white: #ffffff;
 
 .banner {
   background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,0.75)), url('http://unsplash.it/1000/700/?image=48');
@@ -17,16 +14,15 @@
   padding: 200px 200px;
   text-align:center;
   h1 {
-    color: white;
+    color: $white;
     font-size:85px;
     font-weight:200;
   }
   h4 {
-    color: white;
+    color: $white;
   }
 
 }
-
 
 .banner-feat{
   background-image: url('https://unsplash.it/200/300?image=0');
@@ -46,18 +42,18 @@
 }
 
 .popular-text{
-    color: white;
+    color: $white;
     text-align: left;
 }
 
 /* code your card design here */
 
-.newsletter{
-  background-image: url('http://unsplash.it/1000/700/?random');
-  background-size:cover;
-  background-repeat:no-repeat;
-  padding: 40px 50px;
-}
+// .newsletter{
+//   background-image: url('http://unsplash.it/1000/700/?random');
+//   background-size:cover;
+//   background-repeat:no-repeat;
+//   padding: 40px 50px;
+// }
 
 .footer{
   .social-links{
@@ -84,7 +80,6 @@
 }
 
 /* code your feature design here */
-
 
 .feature {
   img {
@@ -122,4 +117,22 @@
     h2{
       text-align: center;
     }
+}
+
+.avatar {
+  width: 80px;
+  border-radius: 50%;
+}
+.avatar-bordered {
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  border: $white 1px solid;
+}
+.avatar-large {
+  width: 150px;
+}
+
+
+.team-profile{
+  margin: 50px;
+
 }
