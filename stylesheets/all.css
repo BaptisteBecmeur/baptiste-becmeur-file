@@ -9128,6 +9128,33 @@ button.close {
 .fa-meanpath:before {
   content: ""; }
 
+/* line 2, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/layout/_footer.css.scss */
+.footer .social-links {
+  background-color: #222222;
+  padding: 10px;
+  display: flex;
+  width: 100%;
+  min-height: 30vh;
+  flex-direction: horizontal; }
+/* line 12, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/layout/_footer.css.scss */
+.footer .site-content {
+  flex: 1; }
+/* line 16, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/layout/_footer.css.scss */
+.footer li {
+  list-style: none;
+  margin: 10px;
+  font-size: 30px; }
+/* line 22, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/layout/_footer.css.scss */
+.footer ul {
+  text-align: left; }
+/* line 26, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/layout/_footer.css.scss */
+.footer h3 {
+  color: white; }
+
+/* line 33, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/layout/_footer.css.scss */
+.list-inline {
+  display: inline-block; }
+
 /* line 1, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/layout/_navbar.css.scss */
 .navbar-wagon {
   box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.07), 0 1px 0 0 rgba(0, 0, 0, 0.03);
@@ -9314,26 +9341,28 @@ button.close {
   background-position: 50% 46%;
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 200px 200px;
   text-align: center; }
   /* line 16, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
   .banner h1 {
+    text-align: center;
     color: #ffffff;
     font-size: 85px;
     font-weight: 200; }
-  /* line 21, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+  /* line 23, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
   .banner h4 {
     color: #ffffff; }
+  /* line 27, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+  .banner-text {
+    padding: 80px; }
+  /* line 31, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+  .banner-feat {
+    background-image: url("https://unsplash.it/200/300?image=0");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px 30px;
+    margin-bottom: 60px; }
 
-/* line 27, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
-.banner-feat {
-  background-image: url("https://unsplash.it/200/300?image=0");
-  background-size: cover;
-  background-repeat: no-repeat;
-  padding: 30px 30px;
-  margin-bottom: 60px; }
-
-/* line 35, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+/* line 40, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
 .newsletter {
   text-align: center;
   background-image: url("https://unsplash.it/200/300?image=4");
@@ -9342,75 +9371,63 @@ button.close {
   padding: 60px 80px;
   margin-bottom: 20px; }
 
-/* line 44, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+/* line 49, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
 .popular-text {
   color: #ffffff;
   text-align: left; }
 
 /* code your card design here */
-/* line 59, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
-.footer .social-links {
-  padding: 10px;
-  background-color: #222222;
-  margin-bottom: 0; }
-/* line 68, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
-.footer li {
-  display: inline;
-  list-style: none;
-  margin: 10px;
-  font-size: 30px; }
-/* line 76, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
-.footer ul {
-  text-align: left; }
-
 /* code your feature design here */
-/* line 85, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+/* line 61, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
 .feature img {
   width: 25px; }
-/* line 88, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+/* line 64, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
 .feature h5 {
   font-size: 15px;
   font-weight: bolder; }
 
-/* line 95, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+/* line 71, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
 .most-popular h2 {
   color: black; }
 
-/* line 100, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+/* line 76, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
 .cards-container {
   padding: 30px; }
-  /* line 103, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+  /* line 79, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
   .cards-container .feature img {
     margin: 0 auto;
     display: block; }
-  /* line 107, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+  /* line 83, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
   .cards-container .feature h5 {
     text-align: center; }
-  /* line 110, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+  /* line 86, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
   .cards-container .feature p {
     text-align: justify; }
 
-/* line 117, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+/* line 93, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
 .popular-container h2 {
   text-align: center; }
 
-/* line 122, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+/* line 98, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
 .avatar {
-  width: 80px;
+  width: 150px;
   border-radius: 50%; }
+  /* line 102, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+  .avatar-bordered {
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    border: #ffffff 1px solid; }
+  /* line 106, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+  .avatar∏-large {
+    width: 150px; }
 
-/* line 126, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
-.avatar-bordered {
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
-  border: #ffffff 1px solid; }
-
-/* line 130, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
-.avatar-large {
-  width: 150px; }
-
-/* line 135, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+/* line 112, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
 .team-profile {
-  margin: 50px; }
+  margin: 70px; }
+
+/* line 116, /Users/baptiste/code/BaptisteBecmeur/baptiste-becmeur-file/source/stylesheets/pages/_home.scss */
+.contact-us {
+  text-align: center;
+  font-size: 32px; }
 
 /*
 ==============================================

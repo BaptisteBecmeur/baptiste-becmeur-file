@@ -68,11 +68,20 @@
   </div>
 </nav>
 
+    <div class="site-content">
     <!-- Banner -->
 <div class="banner">
-  <h1>Startup tools</h1>
-  <h4>Very cool stuff, useful and smart</h4>
-  <a href="#" class="btn btn-primary btn-lg">GET IN</a>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12">
+        <div class="banner-text">
+          <h1>Startup tools</h1>
+          <h4>Very cool stuff, useful and smart</h4>
+          <a href="#" class="btn btn-primary btn-lg">GET IN</a>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- Cards Container -->
@@ -172,9 +181,9 @@ var myOptions = {
 
 var map = new google.maps.Map(document.getElementById('map'), myOptions);
 var marker = new google.maps.Marker({
-position: myLatlng,
-map: map,
-title: "You are here!"
+  position: myLatlng,
+  map: map,
+  title: "You are here!"
 });
 </script>
 
@@ -184,18 +193,19 @@ title: "You are here!"
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
-
+    </div>
     <div class="footer">
   <ul class="social-links">
     <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
     <li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
     <li><a href="#"><i class="fa fa-btc"></i></a></li>
     <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-    <h3 style="color: #ffffff;">made with love</h3>
+    <h3>made with love</h3>
   </ul>
-
 </div>
+
 
 
   </body>
 </html>
+
