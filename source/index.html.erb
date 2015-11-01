@@ -3,9 +3,17 @@ title: Le Wagon Middleman boilerplate
 ---
 <!-- Banner -->
 <div class="banner">
-  <h1>Startup tools</h1>
-  <h4>Very cool stuff, useful and smart</h4>
-  <a href="#" class="btn btn-primary btn-lg">GET IN</a>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12">
+        <div class="banner-text">
+          <h1>Startup tools</h1>
+          <h4>Very cool stuff, useful and smart</h4>
+          <a href="#" class="btn btn-primary btn-lg">GET IN</a>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- Cards Container -->
@@ -105,9 +113,9 @@ var myOptions = {
 
 var map = new google.maps.Map(document.getElementById('map'), myOptions);
 var marker = new google.maps.Marker({
-position: myLatlng,
-map: map,
-title: "You are here!"
+  position: myLatlng,
+  map: map,
+  title: "You are here!"
 });
 </script>
 

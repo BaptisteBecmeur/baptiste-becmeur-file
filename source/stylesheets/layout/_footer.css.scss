@@ -1,0 +1,35 @@
+.footer{
+  .social-links{
+    background-color : #222222;
+    padding: 10px;
+    display: flex;
+    width: 100%;
+    min-height: 30vh;
+    flex-direction: horizontal;
+
+  }
+
+  .site-content {
+    flex: 1;
+  }
+
+  li {
+    list-style: none;
+    margin: 10px;
+    font-size: 30px;
+  }
+
+  ul{
+    text-align: left ;
+  }
+
+  h3{
+    color: white;
+
+  }
+
+}
+
+.list-inline{
+  display: inline-block
+}

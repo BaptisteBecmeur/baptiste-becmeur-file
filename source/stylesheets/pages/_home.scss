@@ -11,25 +11,30 @@ $white: #ffffff;
   background-position: 50% 46%;
   background-size:cover;
   background-repeat:no-repeat;
-  padding: 200px 200px;
   text-align:center;
+
   h1 {
+    text-align:center;
     color: $white;
     font-size:85px;
     font-weight:200;
+
   }
   h4 {
     color: $white;
   }
 
-}
+  &-text{
+   padding: 80px;
+ }
 
-.banner-feat{
+ &-feat{
   background-image: url('https://unsplash.it/200/300?image=0');
   background-size:cover;
   background-repeat:no-repeat;
   padding: 30px 30px;
   margin-bottom: 60px;
+}
 }
 
 .newsletter{
@@ -42,42 +47,13 @@ $white: #ffffff;
 }
 
 .popular-text{
-    color: $white;
-    text-align: left;
+  color: $white;
+  text-align: left;
 }
 
 /* code your card design here */
 
-// .newsletter{
-//   background-image: url('http://unsplash.it/1000/700/?random');
-//   background-size:cover;
-//   background-repeat:no-repeat;
-//   padding: 40px 50px;
-// }
 
-.footer{
-  .social-links{
-    // position: absolute;
-    // bottom: 0;
-    padding: 10px;
-    background-color : #222222;
-    margin-bottom:0;
-  }
-
-
-  li {
-
-    display: inline;
-    list-style: none;
-    margin: 10px;
-    font-size: 30px;
-}
-
-  ul{
-    text-align: left ;
-  }
-
-}
 
 /* code your feature design here */
 
@@ -114,25 +90,30 @@ $white: #ffffff;
 }
 
 .popular-container{
-    h2{
-      text-align: center;
-    }
+  h2{
+    text-align: center;
+  }
 }
 
 .avatar {
-  width: 80px;
-  border-radius: 50%;
-}
-.avatar-bordered {
-  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
-  border: $white 1px solid;
-}
-.avatar-large {
   width: 150px;
+  border-radius: 50%;
+
+  &-bordered {
+    box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+    border: $white 1px solid;
+  }
+  &∏-large {
+    width: 150px;
+  }
 }
 
 
 .team-profile{
-  margin: 50px;
+  margin: 70px;
+}
 
+.contact-us{
+  text-align: center;
+  font-size: 32px;
 }
