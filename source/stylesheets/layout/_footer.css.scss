@@ -1,35 +1,48 @@
+// Your footer style
 .footer{
-  .social-links{
-    background-color : #222222;
-    padding: 10px;
-    display: flex;
-    width: 100%;
-    min-height: 30vh;
-    flex-direction: horizontal;
+    background-color: rgba(0,0,0,0.99);
+    min-height: 90px;
+    padding: 15px;
+    font-size: 14px;
+    color: #838689;
+    font-weight: 300;
+    padding-bottom: 5px;
 
-  }
-
-  .site-content {
-    flex: 1;
-  }
-
-  li {
-    list-style: none;
-    margin: 10px;
-    font-size: 30px;
-  }
-
-  ul{
-    text-align: left ;
-  }
-
-  h3{
+    .list-title p {
+    font-size:16px;
     color: white;
-
+    font-weight:400;
   }
-
 }
 
-.list-inline{
-  display: inline-block
+.footer a {
+  color:whitesmoke;
+  &:hover {
+    color:#C7C9C7;
+  }
 }
+
+
+.line-separator {
+    border-bottom: 1px solid white;
+    padding-top: 5px;
+}
+
+#footer-heart {
+    padding-top: 15px;
+
+ i {
+    color: #DB454D;
+  }
+}
+
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+
+
+
+
+
