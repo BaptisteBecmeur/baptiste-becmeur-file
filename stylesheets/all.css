@@ -9129,31 +9129,43 @@ button.close {
   content: ""; }
 
 /* line 2, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
-.footer .social-links {
-  background-color: #222222;
-  padding: 10px;
-  display: flex;
-  width: 100%;
-  min-height: 30vh;
-  flex-direction: horizontal; }
-/* line 12, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
-.footer .site-content {
-  flex: 1; }
-/* line 16, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
-.footer li {
-  list-style: none;
-  margin: 10px;
-  font-size: 30px; }
-/* line 22, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
-.footer ul {
-  text-align: left; }
-/* line 26, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
-.footer h3 {
-  color: white; }
+.footer {
+  background-color: rgba(0, 0, 0, 0.99);
+  min-height: 90px;
+  padding: 15px;
+  font-size: 14px;
+  color: #838689;
+  font-weight: 300;
+  padding-bottom: 5px; }
+  /* line 11, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
+  .footer .list-title p {
+    font-size: 16px;
+    color: white;
+    font-weight: 400; }
 
-/* line 33, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
-.list-inline {
-  display: inline-block; }
+/* line 18, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
+.footer a {
+  color: whitesmoke; }
+  /* line 20, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
+  .footer a:hover {
+    color: #C7C9C7; }
+
+/* line 26, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
+.line-separator {
+  border-bottom: 1px solid white;
+  padding-top: 5px; }
+
+/* line 31, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
+#footer-heart {
+  padding-top: 15px; }
+  /* line 34, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
+  #footer-heart i {
+    color: #DB454D; }
+
+/* line 39, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
+.row {
+  margin-left: -15px;
+  margin-right: -15px; }
 
 /* line 1, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
 .navbar-wagon {
