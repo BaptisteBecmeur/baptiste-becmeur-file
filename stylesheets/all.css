@@ -3693,23 +3693,23 @@ select[multiple].input-lg,
 /* line 67, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_buttons.scss */
 .btn-success {
   color: #fff;
-  background-color: #32B796;
-  border-color: #2da386; }
+  background-color: #1BA383;
+  border-color: #178d71; }
   /* line 11, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-success:hover, .btn-success:focus, .btn-success.focus, .btn-success:active, .btn-success.active, .open > .btn-success.dropdown-toggle {
     color: #fff;
-    background-color: #278f75;
-    border-color: #1f735e; }
+    background-color: #147760;
+    border-color: #0f5947; }
   /* line 21, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-success:active, .btn-success.active, .open > .btn-success.dropdown-toggle {
     background-image: none; }
   /* line 29, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-success.disabled, .btn-success.disabled:hover, .btn-success.disabled:focus, .btn-success.disabled.focus, .btn-success.disabled:active, .btn-success.disabled.active, .btn-success[disabled], .btn-success[disabled]:hover, .btn-success[disabled]:focus, .btn-success[disabled].focus, .btn-success[disabled]:active, .btn-success[disabled].active, fieldset[disabled] .btn-success, fieldset[disabled] .btn-success:hover, fieldset[disabled] .btn-success:focus, fieldset[disabled] .btn-success.focus, fieldset[disabled] .btn-success:active, fieldset[disabled] .btn-success.active {
-    background-color: #32B796;
-    border-color: #2da386; }
+    background-color: #1BA383;
+    border-color: #178d71; }
   /* line 40, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-success .badge {
-    color: #32B796;
+    color: #1BA383;
     background-color: #fff; }
 
 /* line 71, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_buttons.scss */
@@ -3759,23 +3759,23 @@ select[multiple].input-lg,
 /* line 79, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_buttons.scss */
 .btn-danger {
   color: #fff;
-  background-color: #EE5F5B;
-  border-color: #ec4844; }
+  background-color: #C62F00;
+  border-color: #ad2900; }
   /* line 11, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-danger:hover, .btn-danger:focus, .btn-danger.focus, .btn-danger:active, .btn-danger.active, .open > .btn-danger.dropdown-toggle {
     color: #fff;
-    background-color: #e9322d;
-    border-color: #dc1c17; }
+    background-color: #932300;
+    border-color: #6f1a00; }
   /* line 21, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-danger:active, .btn-danger.active, .open > .btn-danger.dropdown-toggle {
     background-image: none; }
   /* line 29, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-danger.disabled, .btn-danger.disabled:hover, .btn-danger.disabled:focus, .btn-danger.disabled.focus, .btn-danger.disabled:active, .btn-danger.disabled.active, .btn-danger[disabled], .btn-danger[disabled]:hover, .btn-danger[disabled]:focus, .btn-danger[disabled].focus, .btn-danger[disabled]:active, .btn-danger[disabled].active, fieldset[disabled] .btn-danger, fieldset[disabled] .btn-danger:hover, fieldset[disabled] .btn-danger:focus, fieldset[disabled] .btn-danger.focus, fieldset[disabled] .btn-danger:active, fieldset[disabled] .btn-danger.active {
-    background-color: #EE5F5B;
-    border-color: #ec4844; }
+    background-color: #C62F00;
+    border-color: #ad2900; }
   /* line 40, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-danger .badge {
-    color: #EE5F5B;
+    color: #C62F00;
     background-color: #fff; }
 
 /* line 88, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_buttons.scss */
@@ -5195,10 +5195,10 @@ a.label:hover, a.label:focus {
 
 /* line 52, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_labels.scss */
 .label-success {
-  background-color: #32B796; }
+  background-color: #1BA383; }
   /* line 7, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_labels.scss */
   .label-success[href]:hover, .label-success[href]:focus {
-    background-color: #278f75; }
+    background-color: #147760; }
 
 /* line 56, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_labels.scss */
 .label-info {
@@ -5216,10 +5216,10 @@ a.label:hover, a.label:focus {
 
 /* line 64, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_labels.scss */
 .label-danger {
-  background-color: #EE5F5B; }
+  background-color: #C62F00; }
   /* line 7, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_labels.scss */
   .label-danger[href]:hover, .label-danger[href]:focus {
-    background-color: #e9322d; }
+    background-color: #932300; }
 
 /* line 7, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_badges.scss */
 .badge {
@@ -5452,7 +5452,7 @@ a.thumbnail.active {
 
 /* line 73, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_progress-bars.scss */
 .progress-bar-success {
-  background-color: #32B796; }
+  background-color: #1BA383; }
   /* line 7, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_progress-bar.scss */
   .progress-striped .progress-bar-success {
     background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent); }
@@ -5473,7 +5473,7 @@ a.thumbnail.active {
 
 /* line 85, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_progress-bars.scss */
 .progress-bar-danger {
-  background-color: #EE5F5B; }
+  background-color: #C62F00; }
   /* line 7, /Users/baptiste/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_progress-bar.scss */
   .progress-striped .progress-bar-danger {
     background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent); }
@@ -9170,7 +9170,7 @@ button.close {
 /* line 1, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
 .navbar-wagon {
   box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.07), 0 1px 0 0 rgba(0, 0, 0, 0.03);
-  background: white;
+  background: rgba(255, 255, 255, 0.5);
   transition: all 0.3s ease; }
   /* line 5, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon-fixed {
@@ -9337,10 +9337,10 @@ button.close {
   background: grey; }
   /* line 22, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/components/_badge.scss */
   .icon-badge-red, .user-badge-red {
-    background: #EE5F5B; }
+    background: #C62F00; }
   /* line 25, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/components/_badge.scss */
   .icon-badge-green, .user-badge-green {
-    background: #32B796; }
+    background: #1BA383; }
   /* line 28, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/components/_badge.scss */
   .icon-badge-blue, .user-badge-blue {
     background: #469AE0; }
@@ -9438,14 +9438,75 @@ button.close {
   .avatar∏-large {
     width: 150px; }
 
-/* line 112, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 111, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
 .team-profile {
   margin: 70px; }
 
-/* line 116, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 115, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
 .contact-us {
   text-align: center;
   font-size: 32px; }
+
+/*
+ * ==== Losange Picture
+ */
+/* line 124, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+.part {
+  padding: 100px;
+  background-color: #FAFAFA; }
+
+/* line 129, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+.losange, .losange div {
+  margin: 0 auto;
+  transform-origin: 50% 50%;
+  overflow: hidden;
+  width: 250px;
+  height: 250px;
+  postion: absolute; }
+
+/* line 138, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+.losange {
+  transform: rotate(45deg) translateY(10px);
+  margin-top: -220px; }
+
+/* line 142, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+.losange .los1 {
+  width: 355px;
+  height: 355px;
+  transform: rotate(-45deg) translateY(-74px); }
+
+/* line 147, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+.losange .los1 img {
+  width: 100%;
+  height: auto; }
+
+/*Diamond */
+/* line 154, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+.diamond, .diamond div {
+  margin: 0 auto;
+  transform-origin: 50% 50%;
+  overflow: hidden;
+  width: 250px;
+  height: 250px;
+  postion: relative; }
+
+/* line 163, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+.diamond {
+  transform: rotate(45deg) translateY(10px);
+  border-width: 4px;
+  border-style: solid;
+  border-color: #1BA383; }
+
+/* line 169, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+.diamond .dia1 {
+  width: 355px;
+  height: 355px;
+  transform: rotate(-45deg) translateY(-74px); }
+
+/* line 174, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+.diamond .dia1 .dia2 {
+  width: 100%;
+  height: auto; }
 
 /*
 ==============================================
