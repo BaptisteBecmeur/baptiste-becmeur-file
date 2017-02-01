@@ -9128,7 +9128,7 @@ button.close {
 .fa-meanpath:before {
   content: ""; }
 
-/* line 2, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
+/* line 2, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_footer.css.scss */
 .footer {
   background-color: rgba(0, 0, 0, 0.99);
   min-height: 90px;
@@ -9137,66 +9137,66 @@ button.close {
   color: #838689;
   font-weight: 300;
   padding-bottom: 5px; }
-  /* line 11, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
+  /* line 11, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_footer.css.scss */
   .footer .list-title p {
     font-size: 16px;
     color: white;
     font-weight: 400; }
 
-/* line 18, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
+/* line 18, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_footer.css.scss */
 .footer a {
   color: whitesmoke; }
-  /* line 20, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
+  /* line 20, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_footer.css.scss */
   .footer a:hover {
     color: #C7C9C7; }
 
-/* line 26, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
+/* line 26, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_footer.css.scss */
 .line-separator {
   border-bottom: 1px solid white;
   padding-top: 5px; }
 
-/* line 31, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
+/* line 31, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_footer.css.scss */
 #footer-heart {
   padding-top: 15px; }
-  /* line 34, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
+  /* line 34, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_footer.css.scss */
   #footer-heart i {
     color: #DB454D; }
 
-/* line 39, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_footer.css.scss */
+/* line 39, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_footer.css.scss */
 .row {
   margin-left: -15px;
   margin-right: -15px; }
 
-/* line 1, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+/* line 1, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
 .navbar-wagon {
   box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.07), 0 1px 0 0 rgba(0, 0, 0, 0.03);
   background: rgba(255, 255, 255, 0.5);
   transition: all 0.3s ease; }
-  /* line 5, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+  /* line 5, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon-fixed {
     position: fixed;
     z-index: 1;
     width: 100%; }
-  /* line 10, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+  /* line 10, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon-logo {
     width: 50px; }
-  /* line 13, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+  /* line 13, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon-container {
     display: flex;
     height: 70px;
     align-items: center; }
-  /* line 18, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+  /* line 18, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon-item {
     flex: 0 1 auto;
     padding: 0 10px; }
-  /* line 22, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+  /* line 22, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon-search {
     flex: 1 1 auto;
     display: flex;
     justify-content: flex-end;
     padding: 0 10px;
     position: relative; }
-    /* line 28, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+    /* line 28, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
     .navbar-wagon-search-btn {
       line-height: 40px;
       color: #E6E6E6;
@@ -9206,7 +9206,7 @@ button.close {
       right: 10px;
       top: -2px;
       z-index: 1; }
-    /* line 38, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+    /* line 38, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
     .navbar-wagon-search-input {
       flex: 0 1 300px;
       transition: all 0.15s ease;
@@ -9218,18 +9218,18 @@ button.close {
       padding: 0 10px;
       font-size: 14px;
       outline: none; }
-    /* line 50, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+    /* line 50, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
     .navbar-wagon-search-input:focus {
       border: 1px solid #CCCCCC; }
-  /* line 54, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+  /* line 54, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon-link {
     color: #616668;
     font-size: 14px; }
-    /* line 57, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+    /* line 57, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
     .navbar-wagon-link:hover {
       color: #da552f;
       text-decoration: none; }
-  /* line 62, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+  /* line 62, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon-button {
     padding: 0 20px;
     border-radius: 20em;
@@ -9238,17 +9238,17 @@ button.close {
     color: white;
     font-size: 14px;
     border: 2px solid #D23333; }
-    /* line 71, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+    /* line 71, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
     .navbar-wagon-button:hover {
       color: white;
       background: #D23333;
       border-color: #ac2626; }
-  /* line 77, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+  /* line 77, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon-dropdown-menu {
     margin-top: 15px;
     box-shadow: 1px 1px 4px #E6E6E6;
     border-color: #E6E6E6; }
-    /* line 81, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+    /* line 81, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
     .navbar-wagon-dropdown-menu li > a {
       transition: color 0.3s ease;
       font-weight: lighter !important;
@@ -9256,11 +9256,11 @@ button.close {
       font-size: 15px !important;
       line-height: 22px !important;
       padding: 10px 20px; }
-      /* line 88, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+      /* line 88, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
       .navbar-wagon-dropdown-menu li > a:hover {
         background: transparent !important;
         color: black !important; }
-    /* line 93, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_navbar.css.scss */
+    /* line 93, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_navbar.css.scss */
     .navbar-wagon-dropdown-menu:before {
       content: ' ';
       height: 20px;
@@ -9278,52 +9278,52 @@ button.close {
  * These are examples of utilities classes
  * Feel free to change them and create your own
  * ------------------------------------- */
-/* line 8, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_utilities.css.scss */
+/* line 8, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_utilities.css.scss */
 .padded {
   padding-top: 5em;
   padding-bottom: 5em; }
 
-/* line 14, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_utilities.css.scss */
+/* line 14, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_utilities.css.scss */
 .bg-text {
   background: #4a4a4a; }
 
-/* line 17, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_utilities.css.scss */
+/* line 17, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_utilities.css.scss */
 .bg-email {
   background: #aeaeae; }
 
-/* line 20, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_utilities.css.scss */
+/* line 20, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_utilities.css.scss */
 .bg-twitter {
   background: #00a3e1; }
 
-/* line 23, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/layout/_utilities.css.scss */
+/* line 23, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/layout/_utilities.css.scss */
 .bg-facebook {
   background: #3b5998; }
 
-/* line 1, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/components/_avatar.scss */
+/* line 1, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/components/_avatar.scss */
 .avatar {
   width: 30px;
   border-radius: 50%; }
-  /* line 4, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/components/_avatar.scss */
+  /* line 4, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/components/_avatar.scss */
   .avatar-bordered {
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
     border: white 1px solid; }
-  /* line 8, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/components/_avatar.scss */
+  /* line 8, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/components/_avatar.scss */
   .avatar-large {
     width: 50px; }
 
-/* line 1, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/components/_badge.scss */
+/* line 1, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/components/_badge.scss */
 .icon-badge-container {
   position: relative;
   font-size: 20px;
   color: grey; }
 
-/* line 6, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/components/_badge.scss */
+/* line 6, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/components/_badge.scss */
 .user-badge-container {
   position: relative;
   width: 30px;
   margin: 0 auto; }
 
-/* line 11, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/components/_badge.scss */
+/* line 11, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/components/_badge.scss */
 .icon-badge, .user-badge {
   position: absolute;
   top: -5px;
@@ -9335,44 +9335,44 @@ button.close {
   text-align: center;
   border-radius: 50%;
   background: grey; }
-  /* line 22, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/components/_badge.scss */
+  /* line 22, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/components/_badge.scss */
   .icon-badge-red, .user-badge-red {
     background: #C62F00; }
-  /* line 25, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/components/_badge.scss */
+  /* line 25, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/components/_badge.scss */
   .icon-badge-green, .user-badge-green {
     background: #1BA383; }
-  /* line 28, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/components/_badge.scss */
+  /* line 28, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/components/_badge.scss */
   .icon-badge-blue, .user-badge-blue {
     background: #469AE0; }
-  /* line 31, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/components/_badge.scss */
+  /* line 31, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/components/_badge.scss */
   .icon-badge-black, .user-badge-black {
     background: black; }
-  /* line 34, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/components/_badge.scss */
+  /* line 34, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/components/_badge.scss */
   .icon-badge-bordered, .user-badge-bordered {
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
     border: white 1px solid; }
 
 /* code your banner design here */
-/* line 9, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 9, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .banner {
   background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75)), url("http://unsplash.it/1000/700/?image=48");
   background-position: 50% 46%;
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center; }
-  /* line 16, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+  /* line 16, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
   .banner h1 {
     text-align: center;
     color: #ffffff;
     font-size: 85px;
     font-weight: 200; }
-  /* line 23, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+  /* line 23, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
   .banner h4 {
     color: #ffffff; }
-  /* line 27, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+  /* line 27, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
   .banner-text {
     padding: 80px; }
-  /* line 31, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+  /* line 31, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
   .banner-feat {
     background-image: url("https://unsplash.it/200/300?image=0");
     background-size: cover;
@@ -9380,7 +9380,7 @@ button.close {
     padding: 30px 30px;
     margin-bottom: 60px; }
 
-/* line 40, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 40, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .newsletter {
   text-align: center;
   background-image: url("https://unsplash.it/200/300?image=4");
@@ -9389,60 +9389,60 @@ button.close {
   padding: 60px 80px;
   margin-bottom: 20px; }
 
-/* line 49, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 49, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .popular-text {
   color: #ffffff;
   text-align: left; }
 
 /* code your card design here */
 /* code your feature design here */
-/* line 61, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 61, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .feature img {
   width: 25px; }
-/* line 64, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 64, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .feature h5 {
   font-size: 15px;
   font-weight: bolder; }
 
-/* line 71, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 71, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .most-popular h2 {
   color: black; }
 
-/* line 76, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 76, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .cards-container {
   padding: 30px; }
-  /* line 79, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+  /* line 79, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
   .cards-container .feature img {
     margin: 0 auto;
     display: block; }
-  /* line 83, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+  /* line 83, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
   .cards-container .feature h5 {
     text-align: center; }
-  /* line 86, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+  /* line 86, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
   .cards-container .feature p {
     text-align: justify; }
 
-/* line 93, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 93, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .popular-container h2 {
   text-align: center; }
 
-/* line 98, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 98, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .avatar {
   width: 150px;
   border-radius: 50%; }
-  /* line 102, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+  /* line 102, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
   .avatar-bordered {
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
     border: #ffffff 1px solid; }
-  /* line 106, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+  /* line 106, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
   .avatar∏-large {
     width: 150px; }
 
-/* line 111, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 111, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .team-profile {
   margin: 70px; }
 
-/* line 115, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 115, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .contact-us {
   text-align: center;
   font-size: 32px; }
@@ -9450,12 +9450,12 @@ button.close {
 /*
  * ==== Losange Picture
  */
-/* line 124, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 124, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .part {
   padding: 100px;
   background-color: #FAFAFA; }
 
-/* line 129, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 129, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .losange, .losange div {
   margin: 0 auto;
   transform-origin: 50% 50%;
@@ -9464,24 +9464,24 @@ button.close {
   height: 250px;
   postion: absolute; }
 
-/* line 138, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 138, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .losange {
   transform: rotate(45deg) translateY(10px);
   margin-top: -220px; }
 
-/* line 142, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 142, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .losange .los1 {
   width: 355px;
   height: 355px;
   transform: rotate(-45deg) translateY(-74px); }
 
-/* line 147, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 147, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .losange .los1 img {
   width: 100%;
   height: auto; }
 
 /*Diamond */
-/* line 154, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 154, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .diamond, .diamond div {
   margin: 0 auto;
   transform-origin: 50% 50%;
@@ -9490,20 +9490,20 @@ button.close {
   height: 250px;
   postion: relative; }
 
-/* line 163, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 163, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .diamond {
   transform: rotate(45deg) translateY(10px);
   border-width: 4px;
   border-style: solid;
   border-color: #1BA383; }
 
-/* line 169, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 169, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .diamond .dia1 {
   width: 355px;
   height: 355px;
   transform: rotate(-45deg) translateY(-74px); }
 
-/* line 174, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/pages/_home.scss */
+/* line 174, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/pages/_home.scss */
 .diamond .dia1 .dia2 {
   width: 100%;
   height: auto; }
@@ -9526,7 +9526,7 @@ justin@justinaguilar.com
 slideDown
 ==============================================
 */
-/* line 23, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 23, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideDown {
   animation-name: slideDown;
   -webkit-animation-name: slideDown;
@@ -9554,7 +9554,7 @@ slideDown
 slideUp
 ==============================================
 */
-/* line 85, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 85, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideUp {
   animation-name: slideUp;
   -webkit-animation-name: slideUp;
@@ -9582,7 +9582,7 @@ slideUp
 slideLeft
 ==============================================
 */
-/* line 147, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 147, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideLeft {
   animation-name: slideLeft;
   -webkit-animation-name: slideLeft;
@@ -9610,7 +9610,7 @@ slideLeft
 slideRight
 ==============================================
 */
-/* line 209, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 209, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideRight {
   animation-name: slideRight;
   -webkit-animation-name: slideRight;
@@ -9638,7 +9638,7 @@ slideRight
 slideExpandUp
 ==============================================
 */
-/* line 271, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 271, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideExpandUp {
   animation-name: slideExpandUp;
   -webkit-animation-name: slideExpandUp;
@@ -9672,7 +9672,7 @@ slideExpandUp
 expandUp
 ==============================================
 */
-/* line 351, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 351, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .expandUp {
   animation-name: expandUp;
   -webkit-animation-name: expandUp;
@@ -9696,7 +9696,7 @@ expandUp
 fadeIn
 ==============================================
 */
-/* line 400, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 400, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .fadeIn {
   animation-name: fadeIn;
   -webkit-animation-name: fadeIn;
@@ -9723,7 +9723,7 @@ fadeIn
 expandOpen
 ==============================================
 */
-/* line 456, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 456, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .expandOpen {
   animation-name: expandOpen;
   -webkit-animation-name: expandOpen;
@@ -9749,7 +9749,7 @@ expandOpen
 bigEntrance
 ==============================================
 */
-/* line 512, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 512, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .bigEntrance {
   animation-name: bigEntrance;
   -webkit-animation-name: bigEntrance;
@@ -9786,7 +9786,7 @@ bigEntrance
 hatch
 ==============================================
 */
-/* line 593, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 593, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .hatch {
   animation-name: hatch;
   -webkit-animation-name: hatch;
@@ -9819,7 +9819,7 @@ hatch
 bounce
 ==============================================
 */
-/* line 666, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 666, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .bounce {
   animation-name: bounce;
   -webkit-animation-name: bounce;
@@ -9849,7 +9849,7 @@ bounce
 pulse
 ==============================================
 */
-/* line 730, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 730, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .pulse {
   animation-name: pulse;
   -webkit-animation-name: pulse;
@@ -9873,7 +9873,7 @@ pulse
 floating
 ==============================================
 */
-/* line 777, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 777, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .floating {
   animation-name: floating;
   -webkit-animation-name: floating;
@@ -9894,7 +9894,7 @@ floating
 tossing
 ==============================================
 */
-/* line 818, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 818, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .tossing {
   animation-name: tossing;
   -webkit-animation-name: tossing;
@@ -9915,7 +9915,7 @@ tossing
 pullUp
 ==============================================
 */
-/* line 859, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 859, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .pullUp {
   animation-name: pullUp;
   -webkit-animation-name: pullUp;
@@ -9947,7 +9947,7 @@ pullUp
 pullDown
 ==============================================
 */
-/* line 928, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 928, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .pullDown {
   animation-name: pullDown;
   -webkit-animation-name: pullDown;
@@ -9979,7 +9979,7 @@ pullDown
 stretchLeft
 ==============================================
 */
-/* line 997, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 997, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .stretchLeft {
   animation-name: stretchLeft;
   -webkit-animation-name: stretchLeft;
@@ -10011,7 +10011,7 @@ stretchLeft
 stretchRight
 ==============================================
 */
-/* line 1066, /Users/baptiste/code/BaptisteBecmeur/lnkstd-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 1066, /Users/baptiste/code/BaptisteBecmeur/locked-app/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .stretchRight {
   animation-name: stretchRight;
   -webkit-animation-name: stretchRight;
